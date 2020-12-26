@@ -10,4 +10,4 @@ The Launch Configuration deploys four servers, two located in each of private su
 ## How to launch the scripts
 1. To deploy the network infrastructure it is necessary to run the follow bash script from the project folder: `./create.sh network network.yml network.json`
 2. After the first point is successfully performed, run the second script to deploy the servers: `./create.sh servers servers.yml servers.json`
-3. To delete all stacks miplemented run first `./delete.sh network` and after the network is deleted launch `./delete.sh servers`
+3. To delete all stacks launch first `./delete.sh network` and after the network is deleted launch `./delete.sh servers`
