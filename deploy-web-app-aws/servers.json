@@ -1,0 +1,22 @@
+[
+    {
+        "ParameterKey": "EnvironmentName",
+        "ParameterValue": "PROD"
+    },
+    {
+        "ParameterKey": "ServerImageID",
+        "ParameterValue": "ami-0d1cd67c26f5fca19"
+    },
+    {
+        "ParameterKey": "ServerInstanceType",
+        "ParameterValue": "t3.small"
+    },
+    {
+        "ParameterKey": "S3BucketName",
+        "ParameterValue": "fjaremciuc-udagram"
+    },
+    {
+        "ParameterKey": "S3ArchiveName",
+        "ParameterValue": "udagram"
+    }
+]
